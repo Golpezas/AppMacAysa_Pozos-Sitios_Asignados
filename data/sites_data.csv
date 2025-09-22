@@ -1,0 +1,192 @@
+﻿Motivo;Sitio;Asignación;Dias y Hora Servicio
+ALARMA;006 Estación Elevadora Centro - Ayacucho 750 ;Movil 2 Caba - 113735-4716;Todos los dias - 24 hs
+ALARMA;008 Planta de Osmosis Inversa La Lata - Cristóbal Colón y Maipú - Esteban Echeverría;Movil 4 Ezeiza - 113955-6058;Todos los dias - 24 hs
+ALARMA;009 Tanque Devoto - Gualeguaychú 3125 ;Movil 2 Caba - 113735-4716;Todos los dias - 24 hs
+ALARMA;012 Estación de Bombeo Cloacal Costanzo ZG_21 - Mainer esq. Chimondegui - Monte Grande - Esteban Echeverría ;Movil 6 Luis Guillon - 113559-5887;Todos los dias - 24 hs
+ALARMA;015 Estación de Bombeo Cloacal ZC-01 Barrio Alas - Calle El Quebracho y La Guifra - Ciudad Evita - La Matanza;Movil 18 Glez Catan - 115005-4118;Todos los dias - 24 hs
+ALARMA;017 Estación Elevadora 3 de Febrero - Marcelo T. de Alvear y calle Ramón Gómez - Tres de Febrero;Movil 15 Moron - 116381-1091;Todos los dias - 24 hs
+ALARMA;"020 Predio Centro ""La Gotita"" - Ayacucho 760 ";Movil 2 Caba - 113735-4716;L a V 17 pm a 07 am - SDF 24 hs
+ALARMA;021 Estación Elevadora Saavedra - Mariano Acha 3465 ;Movil 2 Caba - 113735-4716;Todos los dias - 24 hs
+ALARMA;022 Estación Elevadora Floresta - Ameghino 1452 ;Movil 2 Caba - 113735-4716;Todos los dias - 24 hs
+ALARMA;026 Oficina Comercial Belgrano - Luis María Campos 786 ;Movil 2 Caba - 113735-4716;Todos los dias - 24 hs
+RECORRIDO;030 Tanque Spegazzini - Palacios, e/ Rosario y Martinez Estrada - Spegazzini;Movil 5 Canning - 112028-5249;Todos los dias - 24 hs
+ALARMA;033 Estación de Bombeo Cloacal ZC-15 Lugano I y II - Cafayate 4906 ;Movil 2 Caba - 113735-4716;Todos los dias - 24 hs
+ALARMA;034 Estación de Bombeo Cloacal ZC-16 Lugano I y IV - Av. Coronel Roca 5355 ;Movil 2 Caba - 113735-4716;Todos los dias - 24 hs
+ALARMA - CERCO;038 Estación de Bombeo Cloacal Boulogne - Maestra Vicenta Ravelo 2602 esq. Junin - Boulogne;Movil 17 Pilar - 113512-9623;Todos los dias - 24 hs
+ALARMA - CERCO;039 Estación de Bombeo Cloacal ZN-8 San Fernando - Pocitos Nº 3023 e./ Suipacha e Italia - San Fernando;Movil 17 Pilar - 113512-9623;Todos los dias - 24 hs
+ALARMA;040 Estación de Bombeo Cloacal La Quema - Av. Amancio Alcorta 2925 ;Movil 2 Caba - 113735-4716;Todos los dias - 24 hs
+ALARMA - CERCO;041 Estación de Bombeo Cloacal Centro ZC-29 Williams Morris - Fernández de Encizo 2139 esq. Cañuelas - Hurlingham;Movil 16 San Miguel - 112027-5726;Todos los dias - 24 hs
+ALARMA;043 Planta Depuradora Barrio 1 - Ing. Renón y Jorge Newbery - E. Echeverria;Movil 6 Luis Guillon - 113559-5887;L a V 16 pm a 08 am - SDF 24 hs
+ALARMA;045 Estación de Bombeo Cloacal Lomas Este - Armesti y Costa Rica - Lomas de Zamora;Movil 11 Berazategui - 112189-6034;Todos los dias - 24 hs
+ALARMA;046 Estación de Bombeo Cloacal ZN_25 Vicente López  - Eduardo Madero esq. Dr. Penna - Vicente Lopez;Movil 17 Pilar - 113512-9623;Todos los dias - 24 hs
+ALARMA - CERCO;047 Estación de Bombeo Liquidos Cloacales Soldati - Fructuoso Rivera 2783 - Villa Soldati;Movil 2 Caba - 113735-4716;Todos los dias - 24 hs
+ALARMA;048 Estación de Distribución Gral. Pacheco - 25 de Mayo y Uruguay - Gral. Pacheco;Movil 17 Pilar - 113512-9623;Todos los dias - 24 hs
+ALARMA;049 Tanque Acassuso - Estrada 868 - Acassuso;Movil 17 Pilar - 113512-9623;Todos los dias - 24 hs
+ALARMA;052 Estación Elevadora Morón - Acceso Oeste y Derqui - Morón;Movil 15 Moron - 116381-1091;Todos los dias - 24 hs
+ALARMA;057 Estación Elevadora Villa Adelina - Cajaraville 3100 - Carapachay;Movil 17 Pilar - 113512-9623;Todos los dias - 24 hs
+ALARMA - CERCO;058 Estación de Bombeo Cloacal ZF_04 Bº San Alberto - Cristiania 4932 - La Matanza;Movil 18 Glez Catan - 115005-4118;Todos los dias - 24 hs
+ALARMA;069 Estación Elevadora La Matanza - San Martín y Nazca - San Justo;Movil 15 Moron - 116381-1091;Todos los dias - 24 hs
+ALARMA;070 Tanque 24 de Febrero Fonavi - Ing. Pablo Marín e Yrigoyen - Escobar;Movil 13 Tigre - 112294-6632;Todos los dias - 24 hs
+ALARMA - CERCO;072 Estación de Bombeo Cloacal Avellaneda Este - Coronel Lynch 955 - Avellaneda;Movil 11 Berazategui - 112189-6034;L a V 16 pm a 08 am - SDF 24 hs
+RECORRIDO;074 – Planta Depuradora Berazategui (VIVERO);Móvil 22 – Bernal - 1120314941;Todos los dias - 24 hs
+ALARMA - CERCO;082 Estación de Bombeo Cloacal Falucho - Misiones 711 esq Falucho - Quilmes;Móvil 22 – Bernal - 1120314941;L a V 16 pm a 08 am - SDF 24 hs
+ALARMA - CERCO;083 Estación Elevadora Quilmes - Lynch 1651 - Wilde;Movil 11 Berazategui - 112189-6034;L a V 16 pm a 08 am - SDF 24 hs
+ALARMA;084 Planta Potabilizadora y Estación de Bombeo Cloacal Fleni - Colectora Este AU Panamericana Ramal Pilar Km. 52 - Escobar;Movil 13 Tigre - 112294-6632;Todos los dias - 24 hs
+ALARMA;088 Planta de Tto. de Nitratos Alte. Brown - Constitución 429 - Adrogué;Movil 1 La Lata - 113241-1045;Todos los dias - 24 hs
+ALARMA - CERCO;089 Estación Elevadora Bº Municipal y Cisterna - Av. Central e./calle 600 y 700 - Ciudad Evita - La Matanza;Movil 18 Glez Catan - 115005-4118;Todos los dias - 24 hs
+ALARMA;090 Planta Dique Luján - Belgrano 1010 y Alberdi - Tigre;Movil 13 Tigre - 112294-6632;Todos los dias - 24 hs
+ALARMA;098 Planta Desnitrificadora Llavallol - Néstor de la Peña e./Húsares y Moldes - Llavallol;Movil 1 La Lata - 113241-1045;Todos los dias - 24 hs
+ALARMA - CERCO;101 Estación de Bombeo Cloacal Loma Hermosa - Las Flores y 3 de Febrero - Loma Hermosa;Movil 17 Pilar - 113512-9623;Todos los dias - 24 hs
+ALARMA;102 Estación de Bombeo Cloacal Hurlingham - Roca 409 y Av. Marquez - Morón;Movil 15 Moron - 116381-1091;Todos los dias - 24 hs
+ALARMA;106 Estación de Bombeo Cloacal ZC-03 Bº Sarmiento - Pablo 6º y Cura Brochero - Villa Celina - La Matanza;Movil 2 Caba - 113735-4716;Todos los dias - 24 hs
+ALARMA - CERCO;107 107 Base Olimpo - Av. Olimpo 1876 esq. La Ilíada - Esteban Echeverria;Movil 6 Luis Guillon - 113559-5887;Todos los dias - 24 hs
+ALARMA;"108 Planta de Osmosis "" La Celia"" - Río Pilcomayo esq. Río Gualeguay - Barrio La Celia - Ezeiza";Movil 6 Luis Guillon - 113559-5887;Todos los dias - 24 hs
+ALARMA;109 Tanque Barrio Sarmiento - Almte J. R. Lopez 2479 e./ Int. Juan Irigoin y Las Malvinas - San Miguel;Movil 16 San Miguel - 112027-5726;Todos los dias - 24 hs
+ALARMA;110 Estación de Bombeo Cloacal Victoria - Mendoza 3600 esq. M. Rodriguez - San Fernando;Movil 17 Pilar - 113512-9623;Todos los dias - 24 hs
+ALARMA;111 Estación de Bombeo Cloacal Almafuerte - El Zorzal e./ Baigorria y Rep. Argentina - Lomas de Zamora;Movil 11 Berazategui - 112189-6034;Todos los dias - 24 hs
+ALARMA;112 Tanque Cisterna Barrio Primavera - Eduardo Wilde 4565, e/ Fragata Sarmiento y Corbeta Uruguay - José C. Paz;Movil 16 San Miguel - 112027-5726;Todos los dias - 24 hs
+ALARMA - CERCO;113 Estación de Bombeo Cloacal ZC-13 Chilavert - Esmeralda 6681 esq. Rawson - José L. Suarez;Movil 17 Pilar - 113512-9623;Todos los dias - 24 hs
+ALARMA - CERCO;114 Estación de Bombeo Cloacal ZN-18 Boulogne - Bomberos Voluntarios esq. Gorriti - San Isidro;Movil 17 Pilar - 113512-9623;Todos los dias - 24 hs
+ALARMA;118 Estación de Bombeo Adrogué Sur - W. Wilson y Luis de Tejeda - Alte. Brown;Movil 1 La Lata - 113241-1045;Todos los dias - 24 hs
+ALARMA - CERCO;119 Planta de Rebombeo Llavallol - Magallanes e./Ucrania y Duhalde - Llavallol;Movil 1 La Lata - 113241-1045;L a V 16 pm a 08 am - SDF 24 hs
+ALARMA - CERCO;121 Estación de Bombeo Cloacal Solano La Florida - Calle 832 (N°: 1043) e/880 y 882 - La Florida - Quilmes;Movil 11 Berazategui - 112189-6034;Todos los dias - 24 hs
+ALARMA - CERCO;125 Estación de Bombeo Cloacal Algarrobo - Algarrobo y Aliso - Barrio Manzanares - La Matanza;Movil 15 Moron - 116381-1091;Todos los dias - 24 hs
+ALARMA - CERCO;126 Estación de Bombeo Cloacal Venezuela - Venezuela y J. I. Rucci - Barrio Manzanares - La Matanza;Movil 15 Moron - 116381-1091;Todos los dias - 24 hs
+ALARMA - CERCO;127 Estación de Bombeo Cloacal La Candela - Triunvirato y Centenera - Barrio Manzanares - La Matanza;Movil 15 Moron - 116381-1091;Todos los dias - 24 hs
+ALARMA - CERCO;128 Estación de Bombeo Cloacal Los Cedros -  Urdeneta esq. Jofre - Laferrere - La Matanza;Movil 18 Glez Catan - 115005-4118;Todos los dias - 24 hs
+ALARMA - CERCO;129 Estación de Bombeo Cloacal Ramal Quilmes Sur - Calle 887 esq. 808 (ingreso por calle 889) - San Fco. de Solano;Movil 11 Berazategui - 112189-6034;L a V 16 pm a 08 am - SDF 24 hs
+ALARMA;133 Estación de Bombeo Cloacal Magdalena - Presbitero Jose Malabia al 800 e/ Gral. Levalle y Gral. Palacios - Banfield - Lomas de Zamora;Movil 11 Berazategui - 112189-6034;Todos los dias - 24 hs
+ALARMA;134 Estación de Bombeo Cloacal Balcarce Sur - Dardo Rocha al 3600 Quirno Costa - Lanus- Remedios de Escalada;Movil 11 Berazategui - 112189-6034;L a V 16 pm a 08 am - SDF 24 hs
+ALARMA - CERCO;135 Estación de Bombeo Cloacal ZC-36 EVITA - Calle El Espinillo (contra las vías del Ferrocarril) - Laferrere - La Matanza;Movil 18 Glez Catan - 115005-4118;Todos los dias - 24 hs
+ALARMA;136 Estación de Bombeo Cloacal ZC-02 B° Municipal - Av. Cristiania 6000 y Calle 600  - Ciudad Evita - La Matanza.- (El Camping)  ;Movil 18 Glez Catan - 115005-4118;Todos los dias - 24 hs
+ALARMA;137 Estación de Bombeo Cloacal ZC-09 17 de Agosto - Campo de Mayo Nº 6915 esq. 7 de Agosto - Villa Bosch - 3 de Febrero;Movil 15 Moron - 116381-1091;Todos los dias - 24 hs
+ALARMA;140 Estación de Bombeo Cloacal Colector Oeste Tigre - Federico Ozanan N° 690 y Leonardo Da Vinci - Los Troncos del Talar - Tigre;Movil 17 Pilar - 113512-9623;Todos los dias - 24 hs
+ALARMA - CERCO;141 Planta Osmosis Inversa Santa Catalina - Castex al 1700 entre Zuviría y Urquiza - Monte Grande - Esteban Echeverria;Movil 6 Luis Guillon - 113559-5887;Todos los dias - 24 hs
+ALARMA;142 Estación de Bombeo Cloacal Los Berros - Av. Gaspar Campos 587 (continua por camino interno) San Miguel;Movil 16 San Miguel - 112027-5726;Todos los dias - 24 hs
+ALARMA;143 Estación de Bombeo Cloacal Villa Domínico - Calle Cassazza y Carlos Gardel - Avellaneda;Movil 11 Berazategui - 112189-6034;Todos los dias - 24 hs
+ALARMA;147 Estación de Bombeo Cloacal Zona P5 - Derqui esq. Roldán - El Palomar - Morón;Movil 15 Moron - 116381-1091;Todos los dias - 24 hs
+ALARMA - CERCO;149 Estación de Bombeo Cloacal ZN22 - Blas Parera entre Gral. Lavalle y Agustín Alvarez - Vicente Lopez;Movil 17 Pilar - 113512-9623;Todos los dias - 24 hs
+ALARMA;154 Planta de Osmosis La Unión - Bernardo Houssay y Las Heras - Ezeiza;Movil 4 Ezeiza - 113955-6058;Todos los dias - 24 hs
+ALARMA;155 Estación de Rebombeo Caseros - Calle Cavassa Fte al 2451 entre Valentín Gomez y las vías FGSM - Caseros;Movil 15 Moron - 116381-1091;Todos los dias - 24 hs
+ALARMA - CERCO;156 Estación de Bombeo Cloacal Quilmes Norte - Liniers entre 169 y 170 - Quilmes;Móvil 22 – Bernal - 1120314941;L a V 16 pm a 08 am - SDF 24 hs
+ALARMA;157 Planta de Tratamiento de Osmosis Inversa San Ignacio - 20 de Junio entre Fernando de Toro y Thomas A. Edison  - Esteban Echeverria;Movil 6 Luis Guillon - 113559-5887;Todos los dias - 24 hs
+ALARMA;158 Estación de Bombeo Cloacal Altos II - Calle Rivadavia 1687 casi esq. Pedro Suarez - Esteban Echeverría;Movil 6 Luis Guillon - 113559-5887;Todos los dias - 24 hs
+ALARMA;159 Estación de Bombeo Cloacal Predio Alberdi - Alberdi 1500 esq. Belgrano Villa Monte - Quilmes;Móvil 22 – Bernal - 1120314941;Todos los dias - 24 hs
+ALARMA;160 Planta de Intercambio Iónico LO042 - Av. Hipólito Yrigoyen 11881 - entre Fray Mamerto Esquiú y Sta. Lucia - Turdera;Movil 1 La Lata - 113241-1045;Todos los dias - 24 hs
+ALARMA;165 Estación de Bombeo Cloacal Tupungato - 1° de Agosto al 7100 entre las calles Chascomus y Río Paraná - San Martín - Jose Leon Suarez;Movil 17 Pilar - 113512-9623;Todos los dias - 24 hs
+ALARMA;169 Estación de Bombeo Cloacal ZO02 Barker - Barker 1111 e./ Ecuador y Soldado Toledo - Moreno;Movil 16 San Miguel - 112027-5726;Todos los dias - 24 hs
+ALARMA;172 Tanque La Perlita - Gutiérrez 5600, e/Costa Rica y La Plata - Moreno;Movil 14 Moreno - 113665-1848;Todos los dias - 24 hs
+ALARMA;173 Tanque Trujuy - Tablada 10415, e/Oribe y Giacomo Puccini - Moreno;Movil 16 San Miguel - 112027-5726;Todos los dias - 24 hs
+ALARMA;175 Cisterna Lincoln - Lincoln 1650, e/ Entre Ríos y Necochea - Moreno;Movil 14 Moreno - 113665-1848;Todos los dias - 24 hs
+ALARMA;178 Estación de Bombeo Cloacal 1 - Vidt y Viedma - Merlo;Movil 14 Moreno - 113665-1848;Todos los dias - 24 hs
+ALARMA;179 Estación de Bombeo Cloacal 2 - Campichuelo y Cipolletti - Merlo;Movil 14 Moreno - 113665-1848;Todos los dias - 24 hs
+ALARMA;180 Estación de Bombeo Cloacal 3 - Av. Argentina y Castelli - Merlo;Movil 14 Moreno - 113665-1848;Todos los dias - 24 hs
+ALARMA;181 Estación de Bombeo Cloacal 4 - Calle s/n a 250 mts de RP 21 y Colombia - Merlo;Movil 15 Moron - 116381-1091;Todos los dias - 24 hs
+ALARMA;182 Estación de Bombeo Cloacal 5 - Obarrio y Tuyutí  - Merlo;Movil 18 Glez Catan - 115005-4118;Todos los dias - 24 hs
+ALARMA;183 Estación de Bombeo Cloacal 6 - Tuyutí y Blanco Ibáñez - Merlo;Movil 18 Glez Catan - 115005-4118;Todos los dias - 24 hs
+ALARMA;184 Cisterna Parque San Martín - 12 de Febrero e./  del Valle y Fleming - Merlo;Movil 14 Moreno - 113665-1848;Todos los dias - 24 hs
+ALARMA;187 Tanque Loma Grande - Bulnes e./ Esnaola y Boyacá - Merlo;Movil 14 Moreno - 113665-1848;Todos los dias - 24 hs
+ALARMA;189 Tanque Barrio Arco Iris - Dalton y Martí - Merlo;Movil 14 Moreno - 113665-1848;Todos los dias - 24 hs
+RECORRIDO;190 Tanque Barrio Covipol - Comisario Etcheverry e Inspector Rossi - Merlo;Movil 14 Moreno - 113665-1848;Todos los dias - 24 hs
+RECORRIDO;191 Predio Hurlingham / Ituzaingó - Av. Pdte. Perón N° 6401 e./ calles J. de Ibáñez y Profesor Domingo Castagna - Villa Tesei – Hurlingham;Movil 15 Moron - 116381-1091;Todos los dias - 24 hs
+ALARMA;194 Estación de Bombeo Cloacal  Barrio Aeronautico - Teniente Albarracin 2960 y esq. Coronel Pringles- Ituzaingo ;Movil 15 Moron - 116381-1091;Todos los dias - 24 hs
+ALARMA;195 Planta de Ionización Guatambú - Guatambú 900 esq. Pino -  Almte. Brown;Movil 1 La Lata - 113241-1045;Todos los dias - 24 hs
+ALARMA;196 Planta de Intercambio Iónico LO-072 - Timbó 160 ;Movil 1 La Lata - 113241-1045;Todos los dias - 24 hs
+ALARMA;197 Planta de Intercambio Iónico EE-13 - Reconquista e./ Rosas y Favaloro;Movil 6 Luis Guillon - 113559-5887;Todos los dias - 24 hs
+ALARMA;198 Planta de Intercambio Iónico LO-0135 - Macedonio Rodriguez e./ El Cairo y Matienzo - Almirante Brown;Movil 1 La Lata - 113241-1045;Todos los dias - 24 hs
+ALARMA;201 Estación de Bombeo Cloacal Turdera II - Santa María 900 y Vicente Fidel López - Turdera;Movil 1 La Lata - 113241-1045;Todos los dias - 24 hs
+ALARMA;202 Estación de Bombeo Cloacal U11 - Raul Ricardo Alfonsín y Juan Carlos Cruz -Vicente López;Movil 17 Pilar - 113512-9623;Todos los dias - 24 hs
+ALARMA;203 Estación de Bombeo Cloacal Boulogne Oeste - Luis Piedra Buena 1160 - Villa Adelina;Movil 17 Pilar - 113512-9623;Todos los dias - 24 hs
+ALARMA;204 Estación de Bombeo Cloacal Calzada II - Martín Arín 84 e./ Frías y 30 de Septiembre;Movil 11 Berazategui - 112189-6034;Todos los dias - 24 hs
+ALARMA;205 Estación de Bombeo Cloacal Pinto - Helguera 2320 y Magan - Sarandí;Movil 11 Berazategui - 112189-6034;Todos los dias - 24 hs
+ALARMA;206 Estación de Bombeo Cloacal Castelar Sur - Av. Figueroa Alcorta esq. Tte. 1° Juan Fernandez - Morón;Movil 15 Moron - 116381-1091;Todos los dias - 24 hs
+ALARMA;207 Estación de Bombeo Cloacal San Martín - Calle Bicentenario esq. 137 San Martín - San Martín;Movil 17 Pilar - 113512-9623;Todos los dias - 24 hs
+ALARMA;208 Estación de Bombeo Cloacal Del Pilar - Colectora Sur Acceso Oeste esq. Santos Dumont - Ituzaingó;Movil 15 Moron - 116381-1091;Todos los dias - 24 hs
+ALARMA;209 Estación de Bombeo Cloacal Ramal Avellaneda - Centenario Uruguayo esq. Caxaraville  - Avellaneda;Movil 11 Berazategui - 112189-6034;Todos los dias - 24 hs
+ALARMA;210 Estación de Bombeo Cloacal Avellaneda Oeste - Suspisiche 519 esq. Almte. Solier - Avellaneda;Movil 11 Berazategui - 112189-6034;Todos los dias - 24 hs
+ALARMA;212 Estación de Bombeo Cloacal Pasco - Lules 200 - Temperley;Movil 11 Berazategui - 112189-6034;Todos los dias - 24 hs
+ALARMA;217 Estación de Rebombeo San Luis - Los Inmigrantes 2800 esq. Calle 1363 - Fcio. Varela;Movil 9 Ing Alan - 113241-9369;Todos los dias - 24 hs
+ALARMA;218 Estación de Rebombeo Sarmiento - Calle 1404 Nº 498 esq. R.P. 53 - Fcio. Varela;Movil 8 Fcio Varela - 113241-9434;Todos los dias - 24 hs
+ALARMA;221 Estación de Bombeo Cloacal N° 3 - Diagonal Los Tilos entre Calle 437 y vías FFCC - Fcio. Varela;Movil 8 Fcio Varela - 113241-9434;Todos los dias - 24 hs
+ALARMA;223 Estación de Bombeo Cloacal N° 5 - Gral. Villegas 951 e./ Río Iguazú y Río Colorado - Fcio. Varela;Movil 9 Ing Alan - 113241-9369;Todos los dias - 24 hs
+ALARMA;229 Estación de Bombeo Cloacal Resto 11 - Caaguazú y Parral - Ituzaingó;Movil 15 Moron - 116381-1091;Todos los dias - 24 hs
+ALARMA;232 Estación de Bombeo Cloacal Merlo Gomez (OC493) - Stevenson y Av. Eva Perón - Morón;Movil 18 Glez Catan - 115005-4118;Todos los dias - 24 hs
+ALARMA;234 Estación de Bombeo Cloacal Ing. Maschwitz - Calle San Lorenzo 601/99 - Ing. Maschwitz - Escobar;Movil 13 Tigre - 112294-6632;Todos los dias - 24 hs
+ALARMA;235 Planta Adsorción San Miguel Centro  - Av. León Gallardo 278 y Haedo - Muñiz - San Miguel               ;Movil 16 San Miguel - 112027-5726;Todos los dias - 24 hs
+ALARMA;236 Planta Adsorción San Miguel Este  - Rosetti e./ Italia y Charlone - San Miguel;Movil 16 San Miguel - 112027-5726;Todos los dias - 24 hs
+ALARMA;237 Planta de Ionización LO107 - Lujan 1324 e./ Necochea y Polonia - Lavallol;Movil 1 La Lata - 113241-1045;Todos los dias - 24 hs
+ALARMA;238 Planta de Ionización LO127 - Jose Marmol 790 esq. Prospero G. Allemandri -Temperley;Movil 11 Berazategui - 112189-6034;Todos los dias - 24 hs
+RECORRIDO;242 Ventileta Nº 25 Primera Cloaca Máxima - Av. 14 Nº  5850 (ex calle Hudson) - Berazategui;Móvil 22 – Bernal - 1120314941;Todos los dias - 24 hs
+ALARMA;244 Estación de Bombeo Cloacal Lebensohn - Av. Moisés Lebensohn al 1000 esquina Vías del FFCC San Martin - San Miguel;Movil 16 San Miguel - 112027-5726;Todos los dias - 24 hs
+ALARMA;245 Planta de Tratamiento de agua con Remoción de Arsénico por Adsorción - América del Norte y Valle del Río Negro - Spegazzini - Ezeiza;Movil 5 Canning - 112028-5249;Todos los dias - 24 hs
+ALARMA;246 Estación de Bombeo Cloacal Laferrere Centro - Ventura Bosh  2149 esq. Victor Hugo - Gregorio de Laferrere - La Matanza.;Movil 18 Glez Catan - 115005-4118;Todos los dias - 24 hs
+ALARMA - CERCO;247 Estación de Bombeo Cloacal Villa Olímpica - Av. Escalada 4946, entre Av. Cnel. Roca y Av. 27 de Febrero - Villa Soldati - CABA.;Movil 2 Caba - 113735-4716;Todos los dias - 24 hs
+ALARMA;248 Estación de Bombeo Cloacal Las Piedras Norte - Calle 821, entre 882 y 822 - Quilmes;Movil 11 Berazategui - 112189-6034;Todos los dias - 24 hs
+ALARMA;250 Estación de Bombeo Cloacal San Javier Este - Av. San Martín entre Dr. Ramón Carrillo y Tucumán - Alte. Brown.;Movil 11 Berazategui - 112189-6034;Todos los dias - 24 hs
+ALARMA;"252 Estación de Bombeo Cloacal las Tunas - Coronel Artigas a 100mts del ingreso al Barrio ""La Comarca"" - Gral. Pacheco - Tigre";Movil 13 Tigre - 112294-6632;Todos los dias - 24 hs
+ALARMA;253 Estación de Bombeo Cloacal Rio Atuel - Rio Atuel entre Rio Grande y La Guarda - Quilmes.;Movil 11 Berazategui - 112189-6034;Todos los dias - 24 hs
+ALARMA;254 Estación de Bombeo Cloacal Benavidez - Dean Funes a 600mts de la calle Segui - Benavidez - Tigre;Movil 13 Tigre - 112294-6632;Todos los dias - 24 hs
+ALARMA;255 Estación de Bombeo Cloacal Procrear Ituzaingó - Dr. Nicolas Repetto 1699 - Barrio Udadondo - Ituzaingó;Movil 15 Moron - 116381-1091;Todos los dias - 24 hs
+ALARMA;256 Estación de Bombeo Cloacal Villa Gonnet - Camino Gral. Belgrano al 6000, esq. V. Lima - Villa Gonnet - Lanus;Móvil 22 – Bernal - 1120314941;Todos los dias - 24 hs
+ALARMA;257 Estación de Bombeo Cloacal Reconquista 1 - Callao 590, e/Segurrola y Carriego - Tigre;Movil 17 Pilar - 113512-9623;Todos los dias - 24 hs
+ALARMA;261 Estacion Elevadora Bernal 2 -  Av. San Martin 600 - Quilmes;Móvil 22 – Bernal - 1120314941;Todos los dias - 24 hs
+ALARMA;262 Estación de Bombeo Cloacal Villa Hidalgo -  Mitre 9550, e/ Obligado y Matheu - San Martin;Movil 17 Pilar - 113512-9623;Todos los dias - 24 hs
+ALARMA;263 Planta de Osmosis Inversa Moreno  (La Morita) - Maximo Paz y San Luis, Monte Grande, Buenos Aires, Argentina;Movil 6 Luis Guillon - 113559-5887;Todos los dias - 24 hs
+ALARMA;264 Planta de Osmosis Inversa Rayo de Sol - Santiago del Estero 3087, esquina Alvarez de Santaclara - Ate. Brown;Movil 1 La Lata - 113241-1045;Todos los dias - 24 hs
+ALARMA;265 Base de Operaciones y Mantenimiento Ríos Subterráneos - Manuel Montes de Oca al 6400, e/Virrey Loreto y Cap. Cajaraville - Villa Adelina;Movil 17 Pilar - 113512-9623;Todos los dias - 24 hs
+ALARMA;267 Estación de Bombeo Cloacal América Unida - Filiberto y Violeta Antier - Guernica;Movil 4 Ezeiza - 113955-6058;Todos los dias - 24 hs
+ALARMA;273 Torre Barrio Uno (Pozo EE006)  - Almafuerte y Rafael Obligado - Ezeiza;Movil 6 Luis Guillon - 113559-5887;Todos los dias - 24 hs
+ALARMA;274 Estación de Bombeo Cloacal Reconquista 2 - Laprida y Willams - Rincón de Milberg;Movil 17 Pilar - 113512-9623;Todos los dias - 24 hs
+ALARMA;275 Estación Bombeo Cloacal Juan Pablo II - Calle Ventura Avila y Camino Country Circulo (Barrio Juan Pablo II) - Esteban Echeverría;Movil 4 Ezeiza - 113955-6058;Todos los dias - 24 hs
+ALARMA;279 Ventileta N° 24  - Boulevard de los Italianos 485  - Villa Dominico - Avellaneda;Movil 11 Berazategui - 112189-6034;Todos los dias - 24 hs
+ALARMA;280 Estación de Bombeo Cloacal Ituzangó - Del Cabestro y Fitz Roy - Udadondo - Ituzaingó;Movil 16 San Miguel - 112027-5726;Todos los dias - 24 hs
+ALARMA;281 Ventileta N° 25   - Boulevard de los Italianos 71 - Avellaneda;Movil 11 Berazategui - 112189-6034;Todos los dias - 24 hs
+ALARMA;283 Predio Tacuarí - Tacuarí 450 - Tigre;Movil 17 Pilar - 113512-9623;Todos los dias - 24 hs
+ALARMA;284 Predio Wilde (RR.HH Central) - Esteban Echeverría 699 equ. Mansilla - Wilde;Movil 11 Berazategui - 112189-6034;Todos los dias - 24 hs
+ALARMA;286 Estación de Bombeo Cloacal Dock Sud ZS_02 – Nicolás Avellaneda 1414 - Avellaneda;Movil 11 Berazategui - 112189-6034;Todos los dias - 24 hs
+ALARMA;287 Vivienda Murguiondo - Murguiondo 2232 - Mataderos;Movil 2 Caba - 113735-4716;Todos los dias - 24 hs
+ALARMA;288 Estación de Bombeo Cloacal Parque Americano – Ciudad de México y Puerto España – Pte. Peron - Guernica;Movil 7 Guernica - 112239-6707;Todos los dias - 24 hs
+ALARMA;289 Estación de Bombeo Cloacal San Blas - Iguazú 1835 - CABA;Movil 2 Caba - 113735-4716;Todos los dias - 24 hs
+ALARMA;290 Estación de Bombeo Cloacal ZS_82 - José Luis Chorroarin 2280 - Monte Chingolo - Lanús;Movil 11 Berazategui - 112189-6034;Todos los dias - 24 hs
+ALARMA;291 Tanque Coprovi – Sanguinetti 143;Movil 13 Tigre - 112294-6632;Todos los dias - 24 hs
+ALARMA;292 Estación de Bombeo Cloacal Aeroparque - Av. Sarmiento 4700 y Av. Costanera Rafael Obligado - CABA ;Movil 2 Caba - 113735-4716;Todos los dias - 24 hs
+ALARMA;293 Estación de Bombeo Cloacal Esperanza Oeste - Carlos Molina Massey al 3200 - Longchamps - Alte. Brown;Movil 3 Glew - 114870-4239;Todos los dias - 24 hs
+ALARMA;295 Estación de Bombeo Cloacal Sarmiento - Cangallo 1365 - Avellaneda;Movil 11 Berazategui - 112189-6034;Todos los dias - 24 hs
+RECORRIDO;296 Dirección Grandes Conductos (Anexo) - Benito Quinquela Martín 2241 - CABA;Movil 2 Caba - 113735-4716;Todos los dias - 24 hs
+ALARMA;297 Estación de Bombeo Cloacal Montecarlo - Juan Hernández y Neuquén - Monte Grande - Esteban Echeverría.;Movil 4 Ezeiza - 113955-6058;Todos los dias - 24 hs
+ALARMA;298 Estación de Bombeo Cloacal Brown 1 - Grecia al 2600 entre R. Chiappe y Av. Blas Parera - Claypole - Almirante Brown ;Movil 8 Fcio Varela - 113241-9434;Todos los dias - 24 hs
+ALARMA;299 Estación de Bombeo Cloacal Adrogue Sur 1 - Roca al 1100 entre 9 de Julio y José de San Martín - Burzaco - Almirante Brown;Movil 3 Glew - 114870-4239;Todos los dias - 24 hs
+ALARMA;"300 Planta de Osmosis Inversa ""Barrio Procrear Merlo"" - Olaya entre Güiraldes y Segundo Sombra - Merlo";Movil 14 Moreno - 113665-1848;Todos los dias - 24 hs
+RECORRIDO;301 Predio Escobar - Florencio Parravicini 1900 -  Escobar;Movil 13 Tigre - 112294-6632;Todos los dias - 24 hs
+ALARMA;303 Planta de Adsorción Moreno - Manuel Obarrio 1045 esq. El Tiziano - Moreno             ;Movil 14 Moreno - 113665-1848;Todos los dias - 24 hs
+ALARMA;305 Estación de Bombeo Cloaclal Barrufaldí - Pampa y Victorino de Plaza - Bella Vista - San Miguel;Movil 16 San Miguel - 112027-5726;Todos los dias - 24 hs
+RECORRIDO;306 – Servidumbre de Cloacas Máximas (Berazategui) - Calle 164 N° 1250 e/ Calle 12 A y Calle 12 B - Berazategui;Móvil 22 – Bernal - 1120314941;Todos los dias - 24 hs
+ALARMA;319 Estación de Rebombeo Rafael Castillo - Fardman y C. Esteban Echeverria - La Ferrere;Movil 18 Glez Catan - 115005-4118;Todos los dias - 24 hs
+ALARMA;320 Predio Arroyo Las Torres - Av. Bicentenario 600 esq. Riobamba - Merlo;Movil 15 Moron - 116381-1091;Todos los dias - 24 hs
+ALARMA;322 Planta Depuradora Jose C. Paz Centro - Av. Hector Arregui y Cap. Martínez (Polideportivo Jose C. Paz);Movil 16 San Miguel - 112027-5726;Todos los dias - 24 hs
+RECORRIDO;324 Vivienda Laprida  Laprida 676 - Avellaneda;Movil 2 Caba - 113735-4716;Todos los dias - 24 hs
+RECORRIDO;327 Predio Gral. Pacheco (Ex Nueva Región Norte) - Av. De los Constituyentes 1690 - Talar de Pacheco - Tigre;Movil 13 Tigre - 112294-6632;Todos los dias - 24 hs
+RECORRIDO;328 Ventileta N° 16 (Ex Vivienda Lavalle) - Lavalle 4 – Quilmes;Móvil 22 – Bernal - 1120314941;Todos los dias - 24 hs
+RECORRIDO;329 Predio Virrey Olaguer y Feliu -Virrey Olaguer y Feliu 2157 - Olivos;Movil 17 Pilar - 113512-9623;Todos los dias - 24 hs
+RECORRIDO;331 Planta Depuradora Russo - Romain Rolland (S/N) e/ Pedro Medrano y Perito Moreno - Los Polvorines;Movil 16 San Miguel - 112027-5726;Todos los dias - 24 hs
+ALARMA;362 Estación de Bombeo Cloacal ZS_01 ISLA MACIEL - Gral. Zapiola 1475 - Dock Sud - Avellaneda;Movil 11 Berazategui - 112189-6034;Todos los dias - 24 hs
+ALARMA;363 Estación de Bombeo Cloacal ZS_03 Dock Sud - Laprida 676 - Dock Sud - Avellaneda;Movil 11 Berazategui - 112189-6034;Todos los dias - 24 hs
+ALARMA;364 Estación de Bombeo Cloacal ZS_07 Argañaraz - Coronel Suarez 698 y Argañaraz - Dock Sud - Avellaneda;Móvil 12 Quilmes - 1154169804;Todos los dias - 24 hs
+ALARMA;365 Estación de Bombeo Cloacal ZS_08 Roca - Av. Roca 2280 - Dock Sud - Avellaneda;Móvil 12 Quilmes - 1154169804;Todos los dias - 24 hs
+ALARMA;366 Estación de Bombeo Cloacal ZC_22_ PUERTO I - Macacha Guemes 151 - CABA;Movil 2 Caba - 113735-4716;Todos los dias - 24 hs
+ALARMA;367 Estación de Bombeo Cloacal ZS_36 LAS FLORES - Pino 6230 e/ Las Flores - Wilde - Avellaneda;Móvil 12 Quilmes - 1154169804;Todos los dias - 24 hs
+ALARMA;368 Estación de Bombeo Cloacal ZS_15 DON BOSCO NORTE - Aguirre al 700 y Calle 263 - Bernal - Quilmes;Móvil 12 Quilmes - 1154169804;Todos los dias - 24 hs
+ALARMA;369 Estación de Bombeo Cloacal ZS_16 DON BOSCO SUR - Av. Caseros 1922 e/ Timoteo Gordillo - Bernal - Quilmes;Movil 11 Berazategui - 112189-6034;Todos los dias - 24 hs
+ALARMA;370 Estación de Bombeo Cloacal ZS_11 TRES SARGENTOS - Crisólogo Larralde y Tres Sargentos - Gerli - Avellaneda;Móvil 12 Quilmes - 1154169804;Todos los dias - 24 hs
+ALARMA;371 Estación de Bombeo Cloacal ZS_33 DEFENSA - Defensa 1602 e/ Facundo Quiroga - Dock Sud - Avellaneda;Móvil 12 Quilmes - 1154169804;Todos los dias - 24 hs
+ALARMA;372 Estación de Bombeo Cloacal ZS_23 VILLA ALCIRA - Tacuari 998 e/ Lago Lacar - Bernal - Quilmes;Movil 11 Berazategui - 112189-6034;Todos los dias - 24 hs
+ALARMA;373 Estación de Bombeo Cloacal ZS_24 VILLA CRAMER - Av. Caseros 1434 y Tacuari - Bernal - Quilmes;Movil 11 Berazategui - 112189-6034;Todos los dias - 24 hs
+ALARMA;374 Estación de Bombeo Cloacal ZS_28 FALUCHO ESTE - Bermejo 1269 e/ Victorica - Bernal - Quilmes;Movil 11 Berazategui - 112189-6034;Todos los dias - 24 hs
+ALARMA;375 Estación de Bombeo Cloacal ZS_ 34 SANTO DOMINGO - Gral. Madariaga 2246 e/ Caxaraville - Sarandi - Avellaneda;Móvil 12 Quilmes - 1154169804;Todos los dias - 24 hs
+ALARMA;376 Estación de Bombeo Cloacal ZC_23 _ PUERTO II - Azucena Villaflor 307 - CABA;Movil 2 Caba - 113735-4716;Todos los dias - 24 hs
+ALARMA;377 Estación de Bombeo Cloacal ZC_24_ PUERTO III - Rosario Verapeñaloza 228 - CABA;Movil 2 Caba - 113735-4716;Todos los dias - 24 hs
+ALARMA;378 Estación de Bombeo Cloacal ZC_21 _ PLANETARIO - Av Belisario Roldan - CABA;Movil 2 Caba - 113735-4716;Todos los dias - 24 hs
+ALARMA;379 Estación de Bombeo Cloacal ZC_45 _ VILLA BALLESTER - Reconquista 4040 -Villa Ballester - San Martin;Movil 17 Pilar - 113512-9623;Todos los dias - 24 hs
+ALARMA;380 Estación de Bombeo Cloacal ZG_10 _ EBC COCA COLA - Los Camalotes 396 e/ Cabo San Jose - El Jaguel - Esteban Echeverria;Movil 6 Luis Guillon - 113559-5887;Todos los dias - 24 hs
+ALARMA;381 Estación de Bombeo Cloacal ZG_27 _ EBC 5 ESQUINAS - km. 40 de la autopista Ezeiza Canuelas - Tristan Suarez - Ezeiza;Movil 5 Canning - 112028-5249;Todos los dias - 24 hs
+ALARMA;382 Estación de Bombeo Cloacal ZF_05 _MORON - Gral Juan Jose de Valle y RP N° 7 - Morón;Movil 15 Moron - 116381-1091;Todos los dias - 24 hs
