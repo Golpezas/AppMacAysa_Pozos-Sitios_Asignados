@@ -9,7 +9,7 @@ DB_PATH = 'data/service_db.sqlite'
 conn = sqlite3.connect(DB_PATH)
 cursor = conn.cursor()
 
-# Crear tablas
+# Crear tablas con la nueva columna service_schedule
 cursor.execute('''
     CREATE TABLE IF NOT EXISTS MobileUnits (
         id INTEGER PRIMARY KEY,
@@ -24,6 +24,7 @@ cursor.execute('''
         address TEXT NOT NULL,
         mobile_unit_id INTEGER,
         status TEXT NOT NULL,
+        service_schedule TEXT NOT NULL,
         FOREIGN KEY (mobile_unit_id) REFERENCES MobileUnits(id)
     )
 ''')
@@ -35,6 +36,7 @@ cursor.execute('''
         mobile_unit_id INTEGER,
         status TEXT NOT NULL,
         motive TEXT,
+        service_schedule TEXT NOT NULL,
         FOREIGN KEY (mobile_unit_id) REFERENCES MobileUnits(id)
     )
 ''')
@@ -69,9 +71,9 @@ with open('data/wells_data.csv', 'r', encoding='utf-8-sig') as file:
         if mobile_id:
             mobile_units[mobile_id] = (mobile_id, name, phone)
         status = "Activo" if "Todos los dias 24 hs" in row['Dias y Hora Servicio'] else "Parcial"
-        wells.append((row['Pozo'], row['Pozo'], row['Ubicación/Calle/Dirección'], mobile_id, status))
+        wells.append((row['Pozo'], row['Pozo'], row['Ubicación/Calle/Dirección'], mobile_id, status, row['Dias y Hora Servicio']))
     cursor.executemany('INSERT OR IGNORE INTO MobileUnits (id, name, phone) VALUES (?, ?, ?)', mobile_units.values())
-    cursor.executemany('INSERT OR IGNORE INTO Wells (id, name, address, mobile_unit_id, status) VALUES (?, ?, ?, ?, ?)', wells)
+    cursor.executemany('INSERT OR IGNORE INTO Wells (id, name, address, mobile_unit_id, status, service_schedule) VALUES (?, ?, ?, ?, ?, ?)', wells)
     print(f"Insertados {len(wells)} pozos.")
 
 # Procesar Sites (sitios)
@@ -90,9 +92,9 @@ with open('data/sites_data.csv', 'r', encoding='utf-8-sig') as file:
         site_id = site_parts[0].strip() if len(site_parts) > 0 else row['Sitio']
         site_name = site_parts[0].strip() if len(site_parts) > 0 else row['Sitio']
         site_address = site_parts[1].strip() if len(site_parts) > 1 else ''
-        sites.append((site_id, site_name, site_address, mobile_id, status, row['Motivo']))
+        sites.append((site_id, site_name, site_address, mobile_id, status, row['Motivo'], row['Dias y Hora Servicio']))
     cursor.executemany('INSERT OR IGNORE INTO MobileUnits (id, name, phone) VALUES (?, ?, ?)', mobile_units.values())
-    cursor.executemany('INSERT OR IGNORE INTO Sites (id, name, address, mobile_unit_id, status, motive) VALUES (?, ?, ?, ?, ?, ?)', sites)
+    cursor.executemany('INSERT OR IGNORE INTO Sites (id, name, address, mobile_unit_id, status, motive, service_schedule) VALUES (?, ?, ?, ?, ?, ?, ?)', sites)
     print(f"Insertados {len(sites)} sitios.")
 
 # Commit y cerrar
